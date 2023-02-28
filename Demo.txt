@@ -16,3 +16,5 @@ Wheee! I'm adding lines in this text file.
 How fun
 
 Hello everyone
+
+This is Arthur adding another line in this file.
