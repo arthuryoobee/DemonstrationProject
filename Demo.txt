@@ -4,3 +4,7 @@ Hello, this is a github tutorial
 We are using bash as the tool of focus in this tutorial.
 
 This is the first file to be committed after the default Readme.md
+
+THis is another line in demo.txt I am adding to simulate a conflict scenario
+
+This conflict scenario will be in the same branch and will be solved by stashing the committed changes
