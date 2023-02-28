@@ -1,0 +1,6 @@
+
+Hello, this is a github tutorial
+
+We are using bash as the tool of focus in this tutorial.
+
+This is the first file to be committed after the default Readme.md
